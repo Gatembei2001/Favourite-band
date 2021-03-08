@@ -1,0 +1,31 @@
+p{
+    font-weight:bold;
+}
+li{
+    font-style:italic;
+}
+body{
+    background-color:pink;
+}
+h3{
+    background-color: palegreen;
+    }
+
+h2{
+    background-color: rebeccapurple;
+}
+h2{
+    font-weight:900;
+}
+head{
+    border-style:double;
+}
+*h3{
+    display:inline;
+}
+p{
+    display:block;
+}
+*{
+    font-size:20px;
+}
